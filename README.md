@@ -1,21 +1,57 @@
-# Olá! Eu sou Maria 👋
+# 🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
 
-🎮 Desenvolvedora de jogos 2D e ilustradora digital.
+Criando jogos, pixel arts e experiências interativas com foco em criatividade, narrativa e design visual.
 
-Atualmente desenvolvo jogos utilizando GDevelop e crio artes em pixel art e ilustrações digitais.
+---
+
+## 🧭 Sobre mim
+
+Sou apaixonada por desenvolvimento de jogos e arte digital. Atualmente desenvolvo projetos utilizando GDevelop, criando mecânicas, sistemas interativos e ambientes em pixel art.
+
+Além da programação visual, também produzo ilustrações e assets para meus próprios projetos, unindo arte e desenvolvimento para construir experiências únicas.
+
+---
 
 ## 🛠️ Ferramentas
+
+### 🎮 Desenvolvimento de Jogos
 - GDevelop
+- Git
+- GitHub
+
+### 🎨 Arte e Pixel Art
 - Krita
 - Aseprite
 
-## 📌 Projetos
-- Little Hunter
+### 📚 Atualmente estudando
+- Game Design
+- Design de Fases
+- Narrativa para Jogos
+- Animação em Pixel Art
 
-## 🌱 Atualmente aprendendo
-- Desenvolvimento de jogos
-- Design de fases
-- Pixel Art
+---
+
+## 📌 Projetos
+
+### 🧙‍♀️ Pequeno Caçador
+Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornada para recuperar seus materiais mágicos roubados.
+
+### 🎨 Projetos de Pixel Art
+Coleção de sprites, personagens, cenários e ilustrações produzidos para jogos e estudos pessoais.
+
+### 🚧 Em Desenvolvimento
+Novos projetos focados em mecânicas de exploração, combate e narrativa.
+
+---
+
+## 🌟 Objetivos
+
+- Evoluir como desenvolvedora de jogos independentes
+- Aprimorar minhas habilidades em pixel art
+- Criar experiências envolventes e criativas
+- Publicar meus próprios jogos
+
+---
 
 ## 📫 Contato
-kathilima5@gmail.com
+mariaahlima00@gmail.com
