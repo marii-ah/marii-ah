@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Eu sou Maria 👋
 
-<!--
-**marii-ah/marii-ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Desenvolvedora de jogos 2D e ilustradora digital.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo jogos utilizando GDevelop e crio artes em pixel art e ilustrações digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Ferramentas
+- GDevelop
+- Krita
+- Aseprite
+
+## 📌 Projetos
+- Little Hunter
+
+## 🌱 Atualmente aprendendo
+- Desenvolvimento de jogos
+- Design de fases
+- Pixel Art
+
+## 📫 Contato
+(athilima5@gmail.com)
