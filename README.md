@@ -18,4 +18,4 @@ Atualmente desenvolvo jogos utilizando GDevelop e crio artes em pixel art e ilus
 - Pixel Art
 
 ## 📫 Contato
-(athilima5@gmail.com)
+kathilima5@gmail.com
