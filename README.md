@@ -1,21 +1,10 @@
 <div align="center">
 
-💖 Maria 💖
 🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
-✨ Game Developer in Training ✨
-
-🌸 Pixel Artist • 🎮 GDevelop • 💻 Godot
-
-♡ creating games ♡ drawing pixels ♡ learning every day ♡
-
-
-⭐ 💗 ⭐ 💗 ⭐
-
-</div>
 
 ---
 
-## 🪐 Sobre mim
+## 🪐 Sobre mim  
 
 👾 Sou apaixonada por desenvolvimento de jogos e arte digital. Atualmente desenvolvo projetos utilizando GDevelop, criando mecânicas, sistemas interativos e ambientes em pixel art.
 
