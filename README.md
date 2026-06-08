@@ -1,5 +1,18 @@
 <div align="center">
-# 🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
+<div align="center">
+
+💖 Maria 💖
+🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
+✨ Game Developer in Training ✨
+
+🌸 Pixel Artist • 🎮 GDevelop • 💻 Godot
+
+♡ creating games ♡ drawing pixels ♡ learning every day ♡
+
+
+⭐ 💗 ⭐ 💗 ⭐
+
+</div>
 
 ---
 
