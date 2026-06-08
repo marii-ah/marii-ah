@@ -17,20 +17,10 @@
 
 ---
 
-## 📌 Projetos
+## 📌 Projeto
 
 ### 🧙‍♀️ Pequeno Caçador
 Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornada para recuperar seus materiais mágicos roubados.
-
-
----
-
-## 🌟 Objetivos
-
-- Evoluir como desenvolvedora de jogos independentes
-- Aprimorar minhas habilidades em pixel art
-- Criar experiências envolventes e criativas
-- Publicar meus próprios jogos
 
 ---
 
