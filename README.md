@@ -1,7 +1,5 @@
 # 🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
 
-Criando jogos, pixel arts e experiências interativas com foco em criatividade, narrativa e design visual.
-
 ---
 
 ## 🧭 Sobre mim
@@ -16,17 +14,14 @@ Além da programação visual, também produzo ilustrações e assets para meus 
 
 ### 🎮 Desenvolvimento de Jogos
 - GDevelop
-- Git
-- GitHub
+- GameMaker
 
-### 🎨 Arte e Pixel Art
-- Krita
-- Aseprite
+
 
 ### 📚 Atualmente estudando
 - Game Design
-- Design de Fases
-- Narrativa para Jogos
+- Design de Jogos
+- Programação em Jogos 
 - Animação em Pixel Art
 
 ---
@@ -36,11 +31,6 @@ Além da programação visual, também produzo ilustrações e assets para meus 
 ### 🧙‍♀️ Pequeno Caçador
 Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornada para recuperar seus materiais mágicos roubados.
 
-### 🎨 Projetos de Pixel Art
-Coleção de sprites, personagens, cenários e ilustrações produzidos para jogos e estudos pessoais.
-
-### 🚧 Em Desenvolvimento
-Novos projetos focados em mecânicas de exploração, combate e narrativa.
 
 ---
 
