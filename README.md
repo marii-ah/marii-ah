@@ -1,3 +1,4 @@
+<div align="center">
 # 🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
 
 ---
@@ -44,3 +45,4 @@ Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornad
 
 ## 📫 Contato
 mariaahlima00@gmail.com
+</div>
