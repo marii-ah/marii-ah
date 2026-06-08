@@ -1,6 +1,6 @@
 <div align="center">
 
-🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
+<img src="banner.png" alt="Banner da Maria" width="100%">
 
 ---
 
