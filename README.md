@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 💖 Maria 💖
 🎮 Desenvolvedora de Jogos 2D e Ilustradora Digital
