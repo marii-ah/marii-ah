@@ -20,7 +20,6 @@ Além da programação visual, também produzo ilustrações e assets para meus 
 
 ### 📚 Atualmente estudando
 - Game Design
-- Design de Jogos
 - Programação em Jogos 
 - Animação em Pixel Art
 
