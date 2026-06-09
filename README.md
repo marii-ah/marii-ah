@@ -1,8 +1,7 @@
 <div align="center">
 
-<p align="center">
-  <img src="banner.gif" alt="Banner">
-</p>
+<img src="./banner.gif" alt="Banner" />
+
 ---
 
 ## 🪐 Sobre mim  
