@@ -19,8 +19,7 @@
 ---
 
 ## 📌 Projeto Atual
-
-### 🧙‍♀️ Pequeno Caçador
+ 🧙‍♀️ Pequeno Caçador
 Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornada para recuperar seus materiais mágicos roubados.
 
 ---
