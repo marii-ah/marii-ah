@@ -6,7 +6,7 @@
 
 ## 🪐 Sobre mim  
 
-👾 Apaixonada por desenvolvimento de jogos e arte digital. Atualmente desenvolvo projetos utilizando GDevelop, criando mecânicas, sistemas interativos e ambientes em pixel art.
+👾 Sou apaixonada por desenvolvimento de jogos e arte digital. Atualmente desenvolvo projetos utilizando GDevelop, criando mecânicas, sistemas interativos e ambientes em pixel art.
 
 ---
 
@@ -44,8 +44,9 @@ Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornad
 ### 💻 Desenvolvimento
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Scripting-6E40C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Scripting-6E40C9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
 ## 📫 Contato
