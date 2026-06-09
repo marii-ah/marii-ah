@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://files.catbox.moe/5cc7i1.gif)
+![](https://files.catbox.moe/2ybs9w.gif)
 
 ---
 
