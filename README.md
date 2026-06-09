@@ -27,6 +27,8 @@ Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornad
 
 ## 🛠️ Ferramentas 
 
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+
 ### 🎨 Art Software
 <p>
   <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge" />
