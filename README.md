@@ -51,5 +51,5 @@ Jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornad
 </p>
 
 ## 📫 Contato
-mariaahlima00@gmail.com
+<img src="https://img.shields.io/badge/Email-mariaahlima00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
