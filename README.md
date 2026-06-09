@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.gif" alt="Banner" />
-
 ---
 
 ## 🪐 Sobre mim  
