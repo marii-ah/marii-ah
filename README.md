@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.png" alt="Banner da Maria" width="100%">
-
 ---
 
 ## 🪐 Sobre mim  
