@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/5cc7i1.gif" alt="Banner">
+<img src="https://files.catbox.moe/5cc7i1.gif" >
 
 ---
 
