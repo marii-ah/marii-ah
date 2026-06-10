@@ -10,17 +10,11 @@
 
 ---
 
-### 📚 Atualmente estudando
+### 📖 studying
 - Game Dev
 - Programação em Jogos 
 - Animação em Pixel Art
 - Game Design
-
----
-
-## 📌 Projeto Atual
-🧙‍♀️ Nome: Pequeno Caçador
- - Um jogo de plataforma e aventura onde uma jovem bruxa artista embarca em uma jornada para recuperar seus materiais mágicos roubados.
 
 ---
 
