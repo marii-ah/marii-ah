@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 </p>
 
-### 💻 Linguagens
+### 💻 languages
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Scripting-6E40C9?style=for-the-badge" />
