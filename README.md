@@ -41,6 +41,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual_Scripting-6E40C9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/GML-000000?style=for-the-badge&logo=gamemaker&logoColor=white" />
 </p>
 
 ## 📫 Contato
