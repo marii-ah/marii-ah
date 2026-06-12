@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="imagens/Banner.jpg" width="800">
-</p>
+
 
 ---
 
