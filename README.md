@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagens/banner.png">
+  <img src="imagens/banner_1.png">
 </p>
 ---
 
