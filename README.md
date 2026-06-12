@@ -45,5 +45,6 @@
 </p>
 
 ## 📫 Contato
-<img src="https://img.shields.io/badge/Email-mariaahlima00%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</div>
+<a href="mailto:mariaahlima00@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Enviar%20Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email">
+</a>
