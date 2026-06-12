@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="imagens/banner_1.png" alt="Banner" />
+  <img src="./banner_1.png" alt="Bandeira" width="100%">
 </p>
+
 ---
 
 ## 🪐 Sobre mim  
