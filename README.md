@@ -6,7 +6,8 @@
 
 ## 🪐 Sobre mim
 
-👾 Apaixonada por desenvolvimento de jogos e arte digital. Atualmente desenvolvo projetos utilizando GDevelop, criando mecânicas, sistemas interativos e ambientes em pixel art.
+👾 Desenvolvedora de jogos em formação, apaixonada por programação, game design e arte digital. Além de criar mecânicas e sistemas para jogos, ilustrações digitais e artes em pixelArt. Atualmente desenvolvo projetos utilizando GDevelop, unindo criatividade, aprendizado constante e desenvolvimento de experiências interativas.
+
 
 ## 📖 Studying
 
