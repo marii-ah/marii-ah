@@ -3,7 +3,7 @@
 </p>
 
 ---
-
+<p
 ## 🪐 Sobre mim  
 
 👾 Apaixonada por desenvolvimento de jogos e arte digital. Atualmente desenvolvo projetos utilizando GDevelop, criando mecânicas, sistemas interativos e ambientes em pixel art.
@@ -48,3 +48,4 @@
 <a href="mailto:mariaahlima00@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Enviar%20Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar Email">
 </a>
+</p>
