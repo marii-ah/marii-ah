@@ -28,6 +28,7 @@ Atualmente estou concluindo a graduação em Design de Animação, aprofundando 
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" />
 <img src="https://img.shields.io/badge/Piskel-EA6B66?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 ## 🎮 Engines
 
